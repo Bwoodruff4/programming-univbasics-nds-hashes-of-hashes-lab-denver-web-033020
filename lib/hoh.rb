@@ -65,6 +65,6 @@ def naming_system
     }
   }
   
-  return life
+  #return life
 
 end
